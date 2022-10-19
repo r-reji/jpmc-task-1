@@ -1,2 +1,3 @@
 # JPMC Task 1
-Starter repo for task 1 of the JPMC software engineering program
+
+Forked repository for the JPMC Software Engineering virtual experience program.
